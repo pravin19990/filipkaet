@@ -1,0 +1,179 @@
+
+  
+.a{
+    display: flex;
+    background-color: blue;
+}
+    .a1{
+        margin-left: 150px;
+        font-size: 40px;
+        color: white;
+    }
+    .a2 input{
+        margin-left: 50px;
+        width: 400px;
+        height: 30px;
+        margin-top: 4px;
+    }
+    .a3 i{
+        font-size: 20px;
+        margin-left: -30px;
+       
+    }
+    .a3 a i{
+        margin-top: 30px;
+    }
+    .a4 button{
+        margin-left: 30px;
+       /* font-size:30px */
+        width: 100px;
+        height: 30px;
+        color:blue;
+        margin-top: 10px;
+      }
+
+        .a5 li{
+            list-style: none;
+            display: flex;
+            margin-left: 50px;
+            margin-top: 12px;
+            font-size: 20px;
+        }
+        .a5{
+            display: flex;
+            margin-top: 8px;
+           
+        }
+        .b1 img{
+            width: 100px;
+            height: 70px;
+        }
+        .b1 li{
+            list-style: none;
+        }
+        .b2 img{
+            width: 100px;
+            height: 70px;
+        }
+        .b2 li{
+            list-style: none;
+        }
+        .b3 img{
+            width: 100px;
+            height: 70px;
+        }
+        .b3 li{
+            list-style: none;
+        }
+        .b4 img{
+            width: 100px;
+            height: 70px;
+        }
+        .b4 li{
+            list-style: none;
+        }
+        .b5 img{
+            width: 100px;
+            height: 70px;
+        }
+        .b5 li{
+            list-style: none;
+        }
+        .b6 img{
+            width: 100px;
+            height: 70px;
+        }
+        .b6 li{
+            list-style: none;
+        }
+        .b{
+            display: flex;
+            justify-content: space-between;
+            background-color: white;
+        }
+        .c1 li{
+            list-style: none;
+        }
+        .c2 li{
+            list-style: none;
+        }
+        .c3 li{
+            list-style: none;
+        }
+        .c4 li{
+            list-style: none;
+        }
+        .c{
+            display: flex;
+            justify-content: space-between;
+        }
+        .c0{
+            background-color: white
+            ;
+        }
+        .d1 img{
+            width: 194px;
+            height: 250px;
+            /* background-color: gray; */
+            /* box-shadow: 5px 5px 5px 5px gray; */
+            border-radius: 5px;
+            
+
+        }
+        .d1 h4{
+            margin-left: 45px;
+        }
+        .d1 h5{
+            margin-left: 45px;
+        }
+        .d1 img:hover{
+            box-shadow: 5px 5px 5px 5px gray;
+        
+        }
+        .d2 img{
+            /* width: 291px; */
+            /* height: 250px; */
+        }
+        .d2 img:hover{
+            box-shadow: 5px 5px 5px 5px gray;
+        }
+        .d2 h4 {
+            margin-left: 66px;
+        }
+        .d2 h5{
+            margin-left: 66px;
+        }
+        .d3 img:hover{
+
+            box-shadow: 5px 5px 5px 5px gray;
+        }
+        .d3 h4{
+            margin-left: 75px;
+        }
+        .d3 h5{
+            margin-left: 75px;
+        }
+        .d4 img:hover{
+            box-shadow: 5px 5px 5px 5px gray;
+        }
+        .d4 h4{
+            margin-left: 0px;
+        }
+        .d4 h5{
+            margin-left: 70px;
+        }
+        .d5 img:hover{
+            box-shadow:5px 5px 5px 5px gray ;
+        }
+        .d5 h4{
+            margin-left: 95px;
+        }
+
+        .d5 h5{
+            margin-left: 95px;
+
+        }
+        .d0{
+            display: flex;
+            justify-content: space-between;
+        }
